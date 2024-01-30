@@ -37,7 +37,7 @@ func init() {
 	flag.Usage = func() {
 		fmt.Print(logo)
 		fmt.Printf("Usage: %s package1.yml [package2.yml] ...\n", os.Args[0])
-		fmt.Printf("See https://github.com/xlab/c-for-go for examples and documentation.\n\n")
+		fmt.Printf("See https://github.com/astro-cn/c-for-go for examples and documentation.\n\n")
 		fmt.Println("Options:")
 		flag.PrintDefaults()
 	}
