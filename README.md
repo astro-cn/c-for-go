@@ -18,7 +18,7 @@ Full documentation is available at https://github.com/xlab/c-for-go/wiki
 ### Installation
 
 ```bash
-$ go install gitlab.xaotos.cn/astro-cn/c-for-go
+$ go install github.com/astro-cn/c-for-go
 ```
 
 A simple [Makefile template](https://github.com/xlab/c-for-go/wiki/Makefile-template).
